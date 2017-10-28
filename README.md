@@ -2,7 +2,7 @@
 
 
 
-### [编辑器](https://github.com/Microsoft)
+### [Open source, from Microsoft with love](https://github.com/Microsoft)
 
 
 
