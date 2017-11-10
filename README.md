@@ -9,6 +9,8 @@
 
 ### [mySql](https://www.npmjs.com/package/mysql#introduction)
 
+### [jquery Source code](https://code.jquery.com/jquery/)
+
 
 
 
